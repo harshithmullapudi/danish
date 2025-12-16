@@ -12,13 +12,19 @@
     "baseUrl": "https://api.openai.com/v1"
   },
   "navigation": [
-
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction"
+      ]
+    }
   ],
   "name": "Danish Prakash",
   "description": "Ask questions about writing, technology, and life.",
   "image": "danish.jpeg",
   "footer": {
     "socials": {
+      "twitter": "https://x.com/paulg",
       "website": "https://danishpraka.sh"
     }
   }
