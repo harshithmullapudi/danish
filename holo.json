@@ -12,36 +12,7 @@
     "baseUrl": "https://api.openai.com/v1"
   },
   "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "introduction"
-      ]
-    },
-    {
-      "group": "Post",
-      "pages": [
-        "CORE cmj8f8c5b000ng00iq7m3atol",
-        "CORE cmj89omrq00lhmv1mbc6pkz7l",
-        "CORE cmj89nfc700fbmv1mp55bpiwf",
-        "CORE cmj89nb7k00enmv1mbkds2zzl",
-        "CORE cmj89mu9t00c5mv1mrdrycbrg",
-        "CORE cmj87ksh00023mv1m7sku31se"
-      ]
-    },
-    {
-      "group": "Reading",
-      "pages": [
-        "CORE cmj8f8djj0015g00if0qxid5c",
-        "CORE cmj8f8d830011g00ixoc9qzio",
-        "CORE cmj8f8d3w000zg00i378g85zc",
-        "CORE cmj8f8ccn000rg00i3lxvhddo",
-        "CORE cmj8f8c1m000lg00ioxisnzt0",
-        "CORE cmj8f8bxy000jg00if8ldo3nb",
-        "CORE cmj8f8b860009g00igd02j43q",
-        "CORE cmj8f8b490007g00igpu6mhny"
-      ]
-    }
+
   ],
   "name": "Danish Prakash",
   "description": "Ask questions about writing, technology, and life.",
